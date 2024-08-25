@@ -80,7 +80,7 @@ The documentation, including installation instructions, configuration instructio
 To download the documentation you can git clone the wiki data:
 
 ```
-git clone https://github.com/carlosperate/ardublockly.wiki.git
+git clone https://github.com/Princewill106/ardublockly.wiki.git
 ```
 
 
@@ -91,7 +91,6 @@ Blockly original source is Copyright of Google Inc. [https://developers.google.c
 
 
 ## License
-Copyright (c) 2016 carlosperate https://github.com/carlosperate/
 
 Unless stated otherwise, the source code of this projects is
 licensed under the Apache License, Version 2.0 (the "License");
